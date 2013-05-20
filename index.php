@@ -1,7 +1,7 @@
 <?php
 include ("phpqrcode/qrlib.php");
 
-$contenu= "";
+$contenu= "twitter://user?screen_name=NyiniGM";
 $nomFichier = "qrcode.png";
 $niveauCorrection = "H";
 $taillePixelQR = 6;
